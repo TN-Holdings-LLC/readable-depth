@@ -51,3 +51,7 @@ Needs Python 3 and numpy.
   e1ad481. It does not yet include the 2026-11-12 results (Trotter step sizes, Ohm).
 - `data/classical_reach_ledger.md`: how far the classical check reached, per problem (same commit).
 - `tests/`: the rule on hand-made cases, and the 2026-11-12 Trotter-step record (ibm_fez) recomputed.
+
+## License
+
+Apache License 2.0 (`LICENSE`), as psf-os-lab-notebook.
